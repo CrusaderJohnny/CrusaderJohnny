@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+You can call me Johnny as thats what many people online know me as.
+
+I am a burgeoning software developer. 
+
+I have graduated from the Software Developer program at SAIT
+
+![Description](hello.svg)
+
 <!--
 **CrusaderJohnny/CrusaderJohnny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
