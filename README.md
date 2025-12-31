@@ -6,7 +6,9 @@ I am a burgeoning software developer.
 
 I have graduated from the Software Developer program at SAIT
 
-![Description](hello.svg)
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/face01ce-77b2-42ae-9a3f-9b0e65b6bb99/thumbnail" >
+</p>
 
 <!--
 **CrusaderJohnny/CrusaderJohnny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
