@@ -2,9 +2,7 @@
 
 You can call me Johnny as thats what many people online know me as.
 
-I am a burgeoning software developer. 
-
-I have graduated from the Software Developer program at SAIT
+I am a burgeoning software developer, who has graduated from the Software Developer program at SAIT
 
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/face01ce-77b2-42ae-9a3f-9b0e65b6bb99/thumbnail" >
