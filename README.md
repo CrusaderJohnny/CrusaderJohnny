@@ -2,7 +2,9 @@
 
 You can call me Johnny as thats what many people online know me as.
 
-I am a burgeoning software developer, who has graduated from the Software Developer program at SAIT
+I am a burgeoning software developer, who has graduated from the Software Developer program at SAIT with a 3.6/4.0 GPA
+
+A curious learner who prefers to grasp concepts rather than score high with no understanding.
 
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/face01ce-77b2-42ae-9a3f-9b0e65b6bb99/thumbnail" >
