@@ -4,7 +4,9 @@ You can call me Johnny as thats what many people online know me as.
 
 I am a burgeoning software developer, who has graduated from the Software Developer program at SAIT with a 3.6/4.0 GPA
 
-A curious learner who prefers to grasp concepts rather than score high with no understanding.
+A curious learner who would rather get a 75% but fully understand the concepts than score 100% and fail to grasp anything.
+
+Currently continuing my learning on Boot.dev, Feel free to see what i've been working on [There](https://www.boot.dev/u/quintessentialmind43)
 
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/face01ce-77b2-42ae-9a3f-9b0e65b6bb99/thumbnail" >
